@@ -11,7 +11,8 @@ library14/16_data.xlsx - The activity (A) was calculated using the formula A = t
 
 aaindex.csv - AAindex is a database of numerical indices representing various physicochemical and biochemical properties of amino acids and pairs of amino acids. This is used to represent amino acids. 
 
-Kawashima, S. and Kanehisa, M.; AAindex: amino acid index database. Nucleic Acids Res. 28, 374 (2000). [PMID:10592278]
+Kawashima, S. and Kanehisa, M.; AAindex: amino acid index database. Nucleic Acids Res. 28, 374 (2000). [PMID:10592278]   
+
 Kawashima, S., Pokarowski, P., Pokarowska, M., Kolinski, A., Katayama, T., and Kanehisa, M.; AAindex: amino acid index database, progress report 2008. Nucleic Acids Res. 36, D202-D205 (2008).[PMID:17998252]
 
 # System Requirements

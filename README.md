@@ -9,11 +9,11 @@ library14/16_training.ipynb - jupyter notebook with our code. the cells can be e
 
 library14/16_data.xlsx - the target value is defined as slope variant / slope wild-type. the slope is derived from the UV-assay.
 
-aaindex.csv - AAindex is a database of numerical indices representing various physicochemical and biochemical properties of amino acids and pairs of amino acids. This is used to represent amino acids. 
+aaindex.csv - AAindex is a database of numerical indices representing various physicochemical and biochemical properties of amino acids and pairs of amino acids. This is used to represent amino acids. [1,2] 
 
-Kawashima, S. and Kanehisa, M.; AAindex: amino acid index database. Nucleic Acids Res. 28, 374 (2000). [PMID:10592278]   
+[1] Kawashima, S. and Kanehisa, M.; AAindex: amino acid index database. Nucleic Acids Res. 28, 374 (2000). [PMID:10592278]   
 
-Kawashima, S., Pokarowski, P., Pokarowska, M., Kolinski, A., Katayama, T., and Kanehisa, M.; AAindex: amino acid index database, progress report 2008. Nucleic Acids Res. 36, D202-D205 (2008).[PMID:17998252]
+[2] Kawashima, S., Pokarowski, P., Pokarowska, M., Kolinski, A., Katayama, T., and Kanehisa, M.; AAindex: amino acid index database, progress report 2008. Nucleic Acids Res. 36, D202-D205 (2008).[PMID:17998252]
 
 # System Requirements
 ## Hardware requirements

@@ -2,7 +2,7 @@
 
 ### Data and code to reproduce our results
 
-Library 14 and Library 16 contain the training data and results for their respective library
+library 14 and library 16 contain the training data and results for their respective library
 
 
 library14/16_training.ipynb - jupyter notebook with our code. the cells can be executed in order from top to bottom. The notebook was already pre-run, and the expected outputs are visible. The only requirements are for the data files to be in the same directory as the jupyter notebook file. The runtime for library14 should not exceed a couple of minutes, even on a standard laptop. This increases manyfold for library16, as making the predictions for all 20**5 variants is very expensive. You can reduce this by setting testing to True. To make predictions on your own data, your inputs have to adhere strictly to the format of our own data, or the code has to be adjusted respectively.

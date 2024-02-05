@@ -27,6 +27,6 @@ We installed the anaconda python distribution from: https://www.anaconda.com/pro
 
 this repository can be downloaded to your local machine via the command:
 
-git clone https://github.com/ccbiozhaw/MLevo.git
+git clone https://github.com/ccbiozhaw/Ssal-KRED_evolution
 
 this should only take a few seconds.

@@ -30,3 +30,8 @@ this repository can be downloaded to your local machine via the command:
 git clone https://github.com/ccbiozhaw/Ssal-KRED_evolution
 
 this should only take a few seconds.
+
+# References
+If you utilize this code, please cite: 
+https://www.nature.com/articles/s42004-024-01130-5
+https://www.nature.com/articles/s41467-022-27999-1

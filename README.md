@@ -32,6 +32,11 @@ git clone https://github.com/ccbiozhaw/Ssal-KRED_evolution
 this should only take a few seconds.
 
 # References
-If you utilize this code, please cite: 
+This code originates from the following publication:
+
+https://www.nature.com/articles/s42004-024-01130-5
+
+If you utilize this code, please cite:
+
 https://www.nature.com/articles/s42004-024-01130-5
 https://www.nature.com/articles/s41467-022-27999-1

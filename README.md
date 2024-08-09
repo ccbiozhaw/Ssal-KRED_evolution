@@ -1,8 +1,10 @@
-# Paper data
+## This is the GitHub Repository for the publication: 
 
-### Data and code to reproduce our results
+# Effective engineering of a ketoreductase for the biocatalytic synthesis of an ipatasertib precursor
 
-library 9 and library 10 contain the training data and results for their respective library
+In this repository we provide both data and code that were used to train the Gaussian Process Regressor utilized to generate machine-filtered library 9 and 10.
+
+Folders "library 9" and "library 10" contain the training data and results for their respective library.
 
 library9/10_training.ipynb - jupyter notebook with our code. the cells can be executed in order from top to bottom. The notebook was already pre-run, and the expected outputs are visible. The only requirements are for the data files to be in the same directory as the jupyter notebook file. The runtime for library9 should not exceed a couple of minutes, even on a standard laptop. This increases manyfold for library10, as making the predictions for all 20\*\*5 variants is very expensive. You can reduce this by setting testing to True. To make predictions on your own data, your inputs have to adhere strictly to the format of our own data, or the code has to be adjusted respectively.
 
